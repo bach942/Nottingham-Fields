@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://bach942.github.io/nottinghamfields/sign.jpeg?raw=true" />
+</p>
+
 # Nottingham Fields Home Owners Association
 
 ### Nottingham Fields HOA Architectural Submission Information
